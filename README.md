@@ -40,8 +40,8 @@ Una aplicación para explorar las últimas películas y series de televisión, c
 
 ## 📫 Contacto
 
-- **Correo**: tu-email@example.com
-- **LinkedIn**: [linkedin.com/in/nombre](#)
+- **Correo**: tripleignacio@gmail.com
+- **LinkedIn**: [(https://www.linkedin.com/in/ignacio-pinto-rodriguez-480a55165/)](#)
 
 ¡Estoy abierto a colaborar en proyectos interesantes o contribuir a nuevas ideas! 😊
 
