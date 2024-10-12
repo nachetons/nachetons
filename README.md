@@ -1,31 +1,47 @@
 # ¡Hola, soy Ignacio Pinto Rodríguez! 👋
 
-Soy un **Desarrollador Backend** con experiencia en [Java](#), [JavaScript](#), y [Python](#). Me encanta trabajar en la creación de soluciones eficientes y escalables.
+Soy un **Desarrollador Backend** con experiencia en la creación de aplicaciones y sistemas utilizando **Java**, **Python**, **JavaScript**, **Visual Basic** y frameworks como **React** y **Flask**. Me especializo en el desarrollo de soluciones conectadas a bases de datos y en la integración de APIs externas.
 
 ## 🚀 Proyectos Destacados
 
-### 1. [Programacion_Hoteles](https://github.com/nachetons/Programacion_Hoteles)
-_Añadir, buscar, modificar y eliminar hoteles en un archivo XML._
-- **Lenguaje**: Java
+### 1. [Cartelera de Cine en Visual Basic](https://github.com/nachetons/CARTELERAVB-ACCESS)
+Este proyecto emula una cartelera de cine, desarrollada en **Visual Basic** y conectada a una base de datos de **Access** para almacenar y gestionar la información de las películas.
 
-### 2. [WarFilms-React](https://github.com/nachetons/WarFilms-React)
-_Proyecto de películas usando React y replicado en javascript puro._
-- **Lenguaje**: JavaScript
-- **Características**: Responsive, búsqueda de películas, listado dinámico.
+- **Tecnologías**: Visual Basic, Access (Base de datos)
+- **Características**: 
+  - Sistema de gestión de películas en cartelera.
+  - Consulta y modificación de registros directamente desde la base de datos.
+  - UI sencilla y fácil de usar.
 
-### 3. [LoginFinal](https://github.com/nachetons/LoginFinal)
-_Un sistema de login hecho en Java._
-- **Lenguaje**: Java
+### 2. [Lotería OCR con Flask, Bootstrap y Firebase](https://github.com/nachetons/LoteriaFlask/tree/Developer)
+Este sistema scrapea datos en tiempo real desde la web oficial de la lotería y los guarda en una base de datos de **Firebase**. También utiliza tecnología **OCR** para almacenar boletos de lotería escaneados y permite a los usuarios gestionar sus números y boletos.
+
+- **Tecnologías**: Flask (cliente), Bootstrap (UI), Firebase (base de datos), Node.js (backend)
+- **Características**: 
+  - Scraping de resultados de lotería en tiempo real.
+  - Gestión de usuarios con autenticación mediante Firebase.
+  - Guardado de boletos de lotería usando tecnología OCR.
+
+### 3. [Aplicación de Películas y Series (Tipo Netflix)](https://github.com/nachetons/WarFilms-React)
+Una aplicación para explorar las últimas películas y series de televisión, con información detallada y valoraciones de usuarios utilizando la API de **The Movie Database (TMDb)**. Desarrollada en **React** y también replicada en **JavaScript puro**.
+
+- **Tecnologías**: React, JavaScript, API de TMDb
+- **Características**: 
+  - Listado de películas y series más populares.
+  - Valoraciones y descripciones detalladas obtenidas mediante API.
+  - Interfaz intuitiva y responsive.
 
 ## 💼 Habilidades Técnicas
 
-- **Lenguajes**: Java, JavaScript, Python
-- **Frameworks**: React, Angular, Node.js
-- **Bases de datos**: MySQL, PostgreSQL, Firebase, MongoDB
-- **Otros**: HTML5, CSS3
+- **Lenguajes**: Visual Basic, Java, JavaScript, Python
+- **Frameworks**: React, Flask, Angular, Bootstrap
+- **Bases de datos**: Firebase, Access, MySQL
+- **Otros**: HTML5, CSS3, Node.js, OCR, APIs externas
 
 ## 📫 Contacto
 
-- **LinkedIn**: https://www.linkedin.com/in/ignacio-pinto-rodriguez-480a55165/
+- **Correo**: tu-email@example.com
+- **LinkedIn**: [linkedin.com/in/nombre](#)
 
-¡Me encantaría colaborar en nuevos proyectos o contribuir en ideas interesantes! 😊
+¡Estoy abierto a colaborar en proyectos interesantes o contribuir a nuevas ideas! 😊
+
