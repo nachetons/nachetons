@@ -24,6 +24,7 @@ Este sistema scrapea datos en tiempo real desde la web oficial de la lotería y 
 
 ### 3. [Aplicación de Películas y Series (Tipo Netflix)](https://github.com/nachetons/WarFilms-React)
 Una aplicación para explorar las últimas películas y series de televisión, con información detallada y valoraciones de usuarios utilizando la API de **The Movie Database (TMDb)**. Desarrollada en **React** y también replicada en **JavaScript puro**.
+WEB: [https://nachetons.github.io/WarFilms-React/]
 
 - **Tecnologías**: React, JavaScript, API de TMDb
 - **Características**: 
